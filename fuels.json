@@ -1,0 +1,27 @@
+[
+  {
+    "fuelCode": "7991691004",
+    "description": "Diesel",
+    "abbreviation": "DSL"
+  },
+  {
+    "fuelCode": "7991691256",
+    "description": "DEF",
+    "abbreviation": "DEF"
+  },
+  {
+    "fuelCode": "7991691003",
+    "description": "Unleaded",
+    "abbreviation": "UNL"
+  },
+  {
+    "fuelCode": "7991691011",
+    "description": "Super",
+    "abbreviation": "SUPR"
+  },
+  {
+    "fuelCode": "7991691001",
+    "description": "Propane",
+    "abbreviation": "PRO"
+  }
+]
