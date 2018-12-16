@@ -1,0 +1,442 @@
+[
+    {
+        "brandCode": "102",
+        "description": "Pizza Hut",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://pilotflyingj.com/media/65911/vector-smart-object.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "103",
+        "description": "Arby's",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://pilotflyingj.com/media/65903/arbys-3.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "104",
+        "description": "Baskin Robbins",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://www.baskinrobbins.com/etc/designs/baskinrobbins/images/mainLogo.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "105",
+        "description": "Burger King",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://locations.bk.com/permanent-b0b701/assets/images/bk_header.9ddbe784.svg",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "106",
+        "description": "Dairy Queen",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://pilotflyingj.com/media/65908/dairy-queen-dq.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "109",
+        "description": "Moe's Southwest Grill",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://pilotflyingj.com/media/65904/moes-southwest-grill.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "110",
+        "description": "Taco Bell",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://pilotflyingj.com/media/65906/taco-bell-live-m%C3%A1s.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "116",
+        "description": "Subway",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://pilotflyingj.com/media/65907/layer-420.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "117",
+        "description": "McDonald's",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://pilotflyingj.com/media/65914/mcdonalds.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "118",
+        "description": "Wendy's",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://pilotflyingj.com/media/65910/wendys-3.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "120",
+        "description": "Chester's Chicken",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://pilotflyingj.com/media/65913/layer-425.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "127",
+        "description": "T.J. Cinnamons",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "134",
+        "description": "Krystal",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://krystal.com/wp-content/uploads/2018/03/logo-btm.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "135",
+        "description": "Perkey's Pizza",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://perkyspizza.com/wp-content/uploads/2016/02/02.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "136",
+        "description": "Taco Bell/KFC",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://pilotflyingj.com/media/65902/kentucky-fried-chicken-kfc.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "137",
+        "description": "KFC",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://pilotflyingj.com/media/65902/kentucky-fried-chicken-kfc.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "138",
+        "description": "Popeye's Chicken",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://popeyes.com/wp-content/themes/popeyes_wcag/images/wrapper/logo-square.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "144",
+        "description": "A&W",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://www.awrestaurants.com/sites/all/themes/aw/images/logo.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "145",
+        "description": "Beef-A-Roo",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://beefaroo.com/wp-content/uploads/2018/11/Beefaroo-Logo-Lime.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "149",
+        "description": "Behm's Grill",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "151",
+        "description": "Blimpie's",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://www.blimpie.com/assets/images/logo.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "153",
+        "description": "Bojangles'",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "159",
+        "description": "Dunkin' Donuts",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://www.dunkindonuts.com/content/dam/dd/img/brand/dd/dd-logo.svg",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "161",
+        "description": "Dan's Big Slice Pizza",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "162",
+        "description": "Del Taco",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://www.deltaco.com/images/main-logo.svg",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "163",
+        "description": "Five Guys",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "http://www.fiveguys.com/-/media/Public-Site/SVGs/FIVE_GUYS.ashx",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "169",
+        "description": "Godfather�s Pizza",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://images.godfathers.com/Godfathers/Themes/gf-logo.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "171",
+        "description": "Grillin� Zone",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "172",
+        "description": "Hunts Brothers Pizza",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://www.huntbrotherspizza.com/images/structure/global/hbp-logo.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "173",
+        "description": "Hot Skillet",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "174",
+        "description": "Hardee's",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://www.hardees.com/assets/logos/hardeelogo-d7097c710c5f07756b1e805200d2da99.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "175",
+        "description": "Hot Stuff Pizza",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "http://www.hotstuffpizza.com/wp-content/uploads/sites/8/2018/06/HSP-LogoWhtStrk-200px.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "178",
+        "description": "Johnny Pastrami",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "181",
+        "description": "Little Caesars",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://littlecaesars.com/static/lc-logo-85ec485fccea6493f2720765ac78895f-9a5e3.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "182",
+        "description": "Long John Silvers",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://static.wixstatic.com/media/1fbc3f_f1b09b90bd3049749582cea81f4eb676~mv2.png/v1/crop/x_0,y_1,w_777,h_180/fill/w_716,h_168,al_c,q_80,usm_0.66_1.00_0.01/NewLJSLogowFish_1Line_4C_800w.webp",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "184",
+        "description": "Milestone Dinner",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "186",
+        "description": "Mexican Grill",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "188",
+        "description": "Maid Rite",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "http://maid-rite.com/images/logo_maid-rite.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "190",
+        "description": "Nathan's Famous",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://nathansfamous.com/images/logo.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "197",
+        "description": "Pizza Shop",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "199",
+        "description": "Q Eats",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "201",
+        "description": "Quizno's Subs",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "http://www.quiznos.com/Libraries/quiznos18/logo.sflb.ashx",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "202",
+        "description": "Roy Rogers",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "http://www.royrogersrestaurants.com/themes/royrogers/img/logo-header.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "203",
+        "description": "Valerie's Taco Shop",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "205",
+        "description": "Sbarro",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://sbarro.com/wp-content/uploads/2017/07/logo.svg",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "209",
+        "description": "Subworks",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://subworksdeli.com/wp-content/uploads/2016/05/subworks-logo-website.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "210",
+        "description": "Taco Express",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "211",
+        "description": "Taco John's",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "212",
+        "description": "Taco Maker",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "216",
+        "description": "Steak n Shake",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "http://steaknshake.com/api/content/image/2089/7/200/200",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "217",
+        "description": "Krispy Kreme Doughnuts",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://www.krispykreme.com/App_Themes/krispykremenew/Content/images/logo@2x.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "263",
+        "description": "Krispy Krunchy Chicken",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": null,
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "289",
+        "description": "Noble Roman's",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://nobleromans.com/wp-content/uploads/2017/12/NR-New-Logo.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "291",
+        "description": "Aubrey's",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "http://aubreysrestaurants.com/middlebrook/wp-content/uploads/2013/12/aubreys_logo.png",
+        "pinImageURL": null
+    },
+    {
+        "brandCode": "299",
+        "description": "MR. Taco",
+        "typeDescription": "Food Service",
+        "lineOfBusinessDescription": "Quick Service Restaurant",
+        "logoImageURL": "https://digitalmarketing.blob.core.windows.net/10534/images/items/image495965.png",
+        "pinImageURL": null
+    }
+]

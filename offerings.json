@@ -1,0 +1,540 @@
+[
+    {
+        "offeringCode": "200",
+        "description": "**TC Focus Area 1**",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "201",
+        "description": "**TC Focus Area 2**",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "202",
+        "description": "**TC Focus Area 3**",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "203",
+        "description": "**Visted by/date**",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "204",
+        "description": "Air Vac",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "205",
+        "description": "Assisted CheckOuts",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "206",
+        "description": "ATMs",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "208",
+        "description": "Auto Wash",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "209",
+        "description": "Bathroom Weight Scales",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "211",
+        "description": "Check Cashing",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "213",
+        "description": "Coin Exchange",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "214",
+        "description": "Cologne Vending Machine",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "216",
+        "description": "Deli",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "218",
+        "description": "Diesel Mobile Fueling",
+        "categories": [
+            "ProAmenity",
+            "TopProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "219",
+        "description": "Direct Bill Not Accepted",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "220",
+        "description": "Driver Services Champion",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "221",
+        "description": "Drivers Lounge",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "222",
+        "description": "Extreme Deli",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "223",
+        "description": "Fuel Lanes and Products",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "224",
+        "description": "Fuel Island Deli",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "225",
+        "description": "Redemption and Arcade",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "226",
+        "description": "Game Vendor",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "227",
+        "description": "Gas Mobile Fueling",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "228",
+        "description": "Homestyle Meals",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "229",
+        "description": "Hot Deli",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "230",
+        "description": "IdleAir",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "231",
+        "description": "Krispy Kreme Doughnuts",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "232",
+        "description": "Limited Parking",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "233",
+        "description": "LSD",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "234",
+        "description": "Mail",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "235",
+        "description": "Massage Chair CoinOp",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "236",
+        "description": "Misc Shops and Other Businesses",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "237",
+        "description": "Miscellaneous Vending",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "238",
+        "description": "Money Orders",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "239",
+        "description": "Multi-Manager Restaurants",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "240",
+        "description": "Paid for Advertising",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "241",
+        "description": "Parking Spaces",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "242",
+        "description": "Payphones",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "243",
+        "description": "Pegasus",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "244",
+        "description": "Public Laundry",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "245",
+        "description": "Restaurant Concepts",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "246",
+        "description": "Restroom Vending",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "247",
+        "description": "RV",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "248",
+        "description": "RV Card Accepted In Store",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "249",
+        "description": "RV Card Discount",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "251",
+        "description": "Scales",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "252",
+        "description": "Shorepower",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "253",
+        "description": "Showers",
+        "categories": [
+            "ProAmenity",
+            "TopProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "254",
+        "description": "Soup/Breakfast Bar",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "255",
+        "description": "Speedy Clean Car Wash",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "256",
+        "description": "Stamp Machine",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "257",
+        "description": "Tractor Trailer Accessible",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "258",
+        "description": "Trans Card",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "259",
+        "description": "Transflo Express",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "260",
+        "description": "Travel Guide",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "261",
+        "description": "Trip Pak",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "262",
+        "description": "Truckers Chapel",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "263",
+        "description": "US Scales",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "264",
+        "description": "West Un Audit Date",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "265",
+        "description": "Western Union",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "266",
+        "description": "WIFI",
+        "categories": [
+            "ProAmenity",
+            "TopProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "272",
+        "description": "Non-Deli Food and Beverage",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "275",
+        "description": "Mama Deluca's",
+        "categories": [
+            "ProAmenity",
+            "FoodFavorites"
+        ]
+    },
+    {
+        "offeringCode": "276",
+        "description": "Drive-Thru",
+        "categories": [
+            "ProAmenity",
+            "FoodFavorites"
+        ]
+    },
+    {
+        "offeringCode": "277",
+        "description": "Roadside Assistance",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "279",
+        "description": "Roadside Assistance Nearby",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "280",
+        "description": "Coke Fountain",
+        "categories": [
+            "ProAmenity",
+            "FoodFavorites"
+        ]
+    },
+    {
+        "offeringCode": "281",
+        "description": "Pepsi Fountain",
+        "categories": [
+            "ProAmenity",
+            "FoodFavorites"
+        ]
+    },
+    {
+        "offeringCode": "282",
+        "description": "Freestyle",
+        "categories": [
+            "ProAmenity",
+            "FoodFavorites"
+        ]
+    },
+    {
+        "offeringCode": "283",
+        "description": "Other Fountain",
+        "categories": [
+            "ProAmenity",
+            "FoodFavorites"
+        ]
+    },
+    {
+        "offeringCode": "284",
+        "description": "No Fountain",
+        "categories": [
+            "ProAmenity",
+            "FoodFavorites"
+        ]
+    },
+    {
+        "offeringCode": "285",
+        "description": "Style",
+        "categories": [
+            "ProAmenity",
+            "FoodFavorites"
+        ]
+    },
+    {
+        "offeringCode": "286",
+        "description": "Breakfast?",
+        "categories": [
+            "ProAmenity",
+            "FoodFavorites"
+        ]
+    },
+    {
+        "offeringCode": "287",
+        "description": "Tesla Charging Stalls",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+    {
+        "offeringCode": "288",
+        "description": "Dunkin Donuts Coffee",
+        "categories": [
+            "ProAmenity",
+            "FoodFavorites"
+        ]
+    }
+]
