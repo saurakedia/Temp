@@ -536,5 +536,26 @@
             "ProAmenity",
             "FoodFavorites"
         ]
-    }
+    },
+     {
+        "offeringCode": "297",
+        "description": "Disel Fuel Lanes",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+     {
+        "offeringCode": "298",
+        "description": "Prime Parking",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
+     {
+        "offeringCode": "299",
+        "description": "Live Parking",
+        "categories": [
+            "ProAmenity"
+        ]
+    },
 ]
