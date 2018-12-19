@@ -2,6 +2,7 @@
     {
         "offeringCode": "200",
         "description": "**TC Focus Area 1**",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -9,6 +10,7 @@
     {
         "offeringCode": "201",
         "description": "**TC Focus Area 2**",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -16,6 +18,7 @@
     {
         "offeringCode": "202",
         "description": "**TC Focus Area 3**",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -23,6 +26,7 @@
     {
         "offeringCode": "203",
         "description": "**Visted by/date**",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -30,6 +34,7 @@
     {
         "offeringCode": "204",
         "description": "Air Vac",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -37,6 +42,7 @@
     {
         "offeringCode": "205",
         "description": "Assisted CheckOuts",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -44,6 +50,7 @@
     {
         "offeringCode": "206",
         "description": "ATMs",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -51,6 +58,7 @@
     {
         "offeringCode": "208",
         "description": "Auto Wash",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -58,6 +66,7 @@
     {
         "offeringCode": "209",
         "description": "Bathroom Weight Scales",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -65,6 +74,7 @@
     {
         "offeringCode": "211",
         "description": "Check Cashing",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -72,6 +82,7 @@
     {
         "offeringCode": "213",
         "description": "Coin Exchange",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -79,6 +90,7 @@
     {
         "offeringCode": "214",
         "description": "Cologne Vending Machine",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -86,6 +98,7 @@
     {
         "offeringCode": "216",
         "description": "Deli",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -93,6 +106,7 @@
     {
         "offeringCode": "218",
         "description": "Diesel Mobile Fueling",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "TopProAmenity"
@@ -101,6 +115,7 @@
     {
         "offeringCode": "219",
         "description": "Direct Bill Not Accepted",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -108,6 +123,7 @@
     {
         "offeringCode": "220",
         "description": "Driver Services Champion",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -115,6 +131,7 @@
     {
         "offeringCode": "221",
         "description": "Drivers Lounge",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -122,6 +139,7 @@
     {
         "offeringCode": "222",
         "description": "Extreme Deli",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -129,6 +147,7 @@
     {
         "offeringCode": "223",
         "description": "Fuel Lanes and Products",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -136,6 +155,7 @@
     {
         "offeringCode": "224",
         "description": "Fuel Island Deli",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -143,6 +163,7 @@
     {
         "offeringCode": "225",
         "description": "Redemption and Arcade",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -150,6 +171,7 @@
     {
         "offeringCode": "226",
         "description": "Game Vendor",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -157,6 +179,7 @@
     {
         "offeringCode": "227",
         "description": "Gas Mobile Fueling",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -164,6 +187,7 @@
     {
         "offeringCode": "228",
         "description": "Homestyle Meals",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -171,6 +195,7 @@
     {
         "offeringCode": "229",
         "description": "Hot Deli",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -178,6 +203,7 @@
     {
         "offeringCode": "230",
         "description": "IdleAir",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -185,6 +211,7 @@
     {
         "offeringCode": "231",
         "description": "Krispy Kreme Doughnuts",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -192,6 +219,7 @@
     {
         "offeringCode": "232",
         "description": "Limited Parking",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -199,6 +227,7 @@
     {
         "offeringCode": "233",
         "description": "LSD",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -206,6 +235,7 @@
     {
         "offeringCode": "234",
         "description": "Mail",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -213,6 +243,7 @@
     {
         "offeringCode": "235",
         "description": "Massage Chair CoinOp",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -220,6 +251,7 @@
     {
         "offeringCode": "236",
         "description": "Misc Shops and Other Businesses",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -227,6 +259,7 @@
     {
         "offeringCode": "237",
         "description": "Miscellaneous Vending",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -234,6 +267,7 @@
     {
         "offeringCode": "238",
         "description": "Money Orders",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -241,6 +275,7 @@
     {
         "offeringCode": "239",
         "description": "Multi-Manager Restaurants",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -248,6 +283,7 @@
     {
         "offeringCode": "240",
         "description": "Paid for Advertising",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -255,6 +291,7 @@
     {
         "offeringCode": "241",
         "description": "Parking Spaces",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -262,6 +299,7 @@
     {
         "offeringCode": "242",
         "description": "Payphones",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -269,6 +307,7 @@
     {
         "offeringCode": "243",
         "description": "Pegasus",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -276,6 +315,7 @@
     {
         "offeringCode": "244",
         "description": "Public Laundry",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -283,6 +323,7 @@
     {
         "offeringCode": "245",
         "description": "Restaurant Concepts",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -290,6 +331,7 @@
     {
         "offeringCode": "246",
         "description": "Restroom Vending",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -297,6 +339,7 @@
     {
         "offeringCode": "247",
         "description": "RV",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -304,6 +347,7 @@
     {
         "offeringCode": "248",
         "description": "RV Card Accepted In Store",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -311,6 +355,7 @@
     {
         "offeringCode": "249",
         "description": "RV Card Discount",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -318,6 +363,7 @@
     {
         "offeringCode": "251",
         "description": "Scales",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -325,6 +371,7 @@
     {
         "offeringCode": "252",
         "description": "Shorepower",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -332,6 +379,7 @@
     {
         "offeringCode": "253",
         "description": "Showers",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "TopProAmenity"
@@ -340,6 +388,7 @@
     {
         "offeringCode": "254",
         "description": "Soup/Breakfast Bar",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -347,6 +396,7 @@
     {
         "offeringCode": "255",
         "description": "Speedy Clean Car Wash",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -354,6 +404,7 @@
     {
         "offeringCode": "256",
         "description": "Stamp Machine",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -361,6 +412,7 @@
     {
         "offeringCode": "257",
         "description": "Tractor Trailer Accessible",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -368,6 +420,7 @@
     {
         "offeringCode": "258",
         "description": "Trans Card",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -375,6 +428,7 @@
     {
         "offeringCode": "259",
         "description": "Transflo Express",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -382,6 +436,7 @@
     {
         "offeringCode": "260",
         "description": "Travel Guide",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -389,6 +444,7 @@
     {
         "offeringCode": "261",
         "description": "Trip Pak",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -396,6 +452,7 @@
     {
         "offeringCode": "262",
         "description": "Truckers Chapel",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -403,6 +460,7 @@
     {
         "offeringCode": "263",
         "description": "US Scales",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -410,6 +468,7 @@
     {
         "offeringCode": "264",
         "description": "West Un Audit Date",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -417,6 +476,7 @@
     {
         "offeringCode": "265",
         "description": "Western Union",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -424,6 +484,7 @@
     {
         "offeringCode": "266",
         "description": "WIFI",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "TopProAmenity"
@@ -432,6 +493,7 @@
     {
         "offeringCode": "272",
         "description": "Non-Deli Food and Beverage",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -439,6 +501,7 @@
     {
         "offeringCode": "275",
         "description": "Mama Deluca's",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "FoodFavorites"
@@ -447,6 +510,7 @@
     {
         "offeringCode": "276",
         "description": "Drive-Thru",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "FoodFavorites"
@@ -455,6 +519,7 @@
     {
         "offeringCode": "277",
         "description": "Roadside Assistance",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -462,6 +527,7 @@
     {
         "offeringCode": "279",
         "description": "Roadside Assistance Nearby",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -469,6 +535,7 @@
     {
         "offeringCode": "280",
         "description": "Coke Fountain",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "FoodFavorites"
@@ -477,6 +544,7 @@
     {
         "offeringCode": "281",
         "description": "Pepsi Fountain",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "FoodFavorites"
@@ -485,6 +553,7 @@
     {
         "offeringCode": "282",
         "description": "Freestyle",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "FoodFavorites"
@@ -493,6 +562,7 @@
     {
         "offeringCode": "283",
         "description": "Other Fountain",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "FoodFavorites"
@@ -501,6 +571,7 @@
     {
         "offeringCode": "284",
         "description": "No Fountain",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "FoodFavorites"
@@ -509,6 +580,7 @@
     {
         "offeringCode": "285",
         "description": "Style",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "FoodFavorites"
@@ -517,6 +589,7 @@
     {
         "offeringCode": "286",
         "description": "Breakfast?",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "FoodFavorites"
@@ -525,6 +598,7 @@
     {
         "offeringCode": "287",
         "description": "Tesla Charging Stalls",
+         "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -532,6 +606,7 @@
     {
         "offeringCode": "288",
         "description": "Dunkin Donuts Coffee",
+         "imageURL": "",
         "categories": [
             "ProAmenity",
             "FoodFavorites"
@@ -540,6 +615,7 @@
      {
         "offeringCode": "297",
         "description": "Disel Fuel Lanes",
+          "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -547,6 +623,7 @@
      {
         "offeringCode": "298",
         "description": "Prime Parking",
+          "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
@@ -554,6 +631,7 @@
      {
         "offeringCode": "299",
         "description": "Live Parking",
+          "imageURL": "",
         "categories": [
             "ProAmenity"
         ]
