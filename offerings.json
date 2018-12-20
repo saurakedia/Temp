@@ -498,10 +498,10 @@
             "ProAmenity"
         ]
     },
-    {
+     {
         "offeringCode": "275",
         "description": "Mama Deluca's",
-         "imageURL": "",
+         "imageURL": "https://pilotflyingj.com/media/65911/vector-smart-object.png",
         "categories": [
             "ProAmenity",
             "FoodFavorites"
@@ -510,7 +510,7 @@
     {
         "offeringCode": "276",
         "description": "Drive-Thru",
-         "imageURL": "",
+         "imageURL": "https://pilotflyingj.com/media/65903/arbys-3.png",
         "categories": [
             "ProAmenity",
             "FoodFavorites"
