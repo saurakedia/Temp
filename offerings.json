@@ -341,7 +341,8 @@
         "description": "RV",
          "imageURL": "",
         "categories": [
-            "ProAmenity"
+            "ProAmenity",
+            "RVFriendly"
         ]
     },
     {
@@ -349,7 +350,8 @@
         "description": "RV Card Accepted In Store",
          "imageURL": "",
         "categories": [
-            "ProAmenity"
+            "ProAmenity",
+            "RVFriendly"
         ]
     },
     {
@@ -357,7 +359,8 @@
         "description": "RV Card Discount",
          "imageURL": "",
         "categories": [
-            "ProAmenity"
+            "ProAmenity",
+            "RVFriendly"
         ]
     },
     {
